@@ -1810,6 +1810,9 @@
 [Super Mario 3D World + Bowser_s Fury [Complete Unlocked] [ESP] [010028600EBDA000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Super%20Mario%203D%20World%20%2B%20Bowser_s%20Fury%20%5BComplete%20Unlocked%5D%20%5BESP%5D%20%5B010028600EBDA000%5D%20%5B001%5D.zip)
 
 
+[Super Mario Bros. Wonder [Complete] [Viren070] [010015100B514000].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Super%20Mario%20Bros.%20Wonder%20%5BComplete%5D%20%5BViren070%5D%20%5B010015100B514000%5D.zip)
+
+
 [Super Mario Maker 2 - December 24 2020 [20201224] [ESP] [01009B90006DC000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Super%20Mario%20Maker%202%20-%20December%2024%202020%20%5B20201224%5D%20%5BESP%5D%20%5B01009B90006DC000%5D%20%5B001%5D.zip)
 
 
