@@ -91,16 +91,16 @@
 [ASTRAL CHAIN [Super Starter Boy & Girl] [ESP] [01007300020FA000] [002].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/ASTRAL%20CHAIN%20%5BSuper%20Starter%20Boy%20%26%20Girl%5D%20%5BESP%5D%20%5B01007300020FA000%5D%20%5B002%5D.zip)
 
 
-[Atelier Lulua ~The Scion of Arland~ [Complete] [ESP] [0100B1400CD50000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Lulua%20~The%20Scion%20of%20Arland~%20%5BComplete%5D%20%5BESP%5D%20%5B0100B1400CD50000%5D%20%5B001%5D.zip)
+[Atelier Lulua \~The Scion of Arland\~ [Complete] [ESP] [0100B1400CD50000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Lulua%20~The%20Scion%20of%20Arland~%20%5BComplete%5D%20%5BESP%5D%20%5B0100B1400CD50000%5D%20%5B001%5D.zip)
 
 
-[Atelier Lulua ~The Scion of Arland~ [GameData00] [ESP] [0100B1400CD50000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Lulua%20~The%20Scion%20of%20Arland~%20%5BGameData00%5D%20%5BESP%5D%20%5B0100B1400CD50000%5D%20%5B001%5D.zip)
+[Atelier Lulua \~The Scion of Arland\~ [GameData00] [ESP] [0100B1400CD50000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Lulua%20~The%20Scion%20of%20Arland~%20%5BGameData00%5D%20%5BESP%5D%20%5B0100B1400CD50000%5D%20%5B001%5D.zip)
 
 
-[Atelier Lulua ~The Scion of Arland~ [GameData01] [ESP] [0100B1400CD50000] [002].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Lulua%20~The%20Scion%20of%20Arland~%20%5BGameData01%5D%20%5BESP%5D%20%5B0100B1400CD50000%5D%20%5B002%5D.zip)
+[Atelier Lulua \~The Scion of Arland\~ [GameData01] [ESP] [0100B1400CD50000] [002].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Lulua%20~The%20Scion%20of%20Arland~%20%5BGameData01%5D%20%5BESP%5D%20%5B0100B1400CD50000%5D%20%5B002%5D.zip)
 
 
-[Atelier Lulua ~The Scion of Arland~ [SystemData] [ESP] [0100B1400CD50000] [003].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Lulua%20~The%20Scion%20of%20Arland~%20%5BSystemData%5D%20%5BESP%5D%20%5B0100B1400CD50000%5D%20%5B003%5D.zip)
+[Atelier Lulua \~The Scion of Arland\~ [SystemData] [ESP] [0100B1400CD50000] [003].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Lulua%20~The%20Scion%20of%20Arland~%20%5BSystemData%5D%20%5BESP%5D%20%5B0100B1400CD50000%5D%20%5B003%5D.zip)
 
 
 [Atelier Ryza  Ever Darkness & the Secret Hideout [EpisodeEmpelLila00] [ESP] [0100D1900EC80000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Atelier%20Ryza%20%20Ever%20Darkness%20%26%20the%20Secret%20Hideout%20%5BEpisodeEmpelLila00%5D%20%5BESP%5D%20%5B0100D1900EC80000%5D%20%5B001%5D.zip)
@@ -1183,7 +1183,7 @@
 [Needy Princess Nerd Club [English LanguagePack] [010062501BF54000].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Needy%20Princess%20Nerd%20Club%20%5BEnglish%20LanguagePack%5D%20%5B010062501BF54000%5D.zip)
 
 
-[Nelke _ the Legendary Alchemists ~Ateliers of the New World~ [Super Starter] [ESP] [01006ED00BC76000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Nelke%20_%20the%20Legendary%20Alchemists%20~Ateliers%20of%20the%20New%20World~%20%5BSuper%20Starter%5D%20%5BESP%5D%20%5B01006ED00BC76000%5D%20%5B001%5D.zip)
+[Nelke _ the Legendary Alchemists \~Ateliers of the New World\~ [Super Starter] [ESP] [01006ED00BC76000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/Nelke%20_%20the%20Legendary%20Alchemists%20~Ateliers%20of%20the%20New%20World~%20%5BSuper%20Starter%5D%20%5BESP%5D%20%5B01006ED00BC76000%5D%20%5B001%5D.zip)
 
 
 [New Super Lucky_s Tale [complete] [ABDULSALAM] [010017700B6C2000] [001].zip](https://github.com/Viren070/NX_Saves/raw/main/nintendo/switch/savegames/New%20Super%20Lucky_s%20Tale%20%5Bcomplete%5D%20%5BABDULSALAM%5D%20%5B010017700B6C2000%5D%20%5B001%5D.zip)
