@@ -1,20 +1,26 @@
 name: Update index
 on: push
+
 jobs:
-    resources:
-        name: Update resources
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v1
+  update_resources:
+    runs-on: ubuntu-latest
 
-            - uses: actions/setup-node@v1
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v1
 
-            - name: Run generate_index.py 
-              run: generate_index.py
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.12
 
-            - name: Update index.md
-              uses: test-room-7/action-update-file@v1
-              with:
-                  file-path: index.md
-                  commit-msg: Update index.md
-                  github-token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Run generate_index.py 
+      run: |
+        python generate_index.py
+
+    - name: Update index.md
+      uses: test-room-7/action-update-file@v1
+      with:
+        file-path: index.md
+        commit-msg: Update index.md
+        github-token: ${{ secrets.GITHUB_TOKEN }}
