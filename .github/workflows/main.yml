@@ -1,26 +1,28 @@
-name: Update index
-on: push
+name: Update index.md
+
+on:
+  push:
+    branches:
+      - main  
 
 jobs:
-  update_resources:
+  update_index:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v1
+      uses: actions/checkout@v2
 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.12
+        python-version: 312
 
-    - name: Run generate_index.py 
+    - name: Run generate_index.py
       run: |
         python generate_index.py
-
-    - name: Update index.md
-      uses: test-room-7/action-update-file@v1
-      with:
-        file-path: index.md
-        commit-msg: Update index.md
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add index.md
+        git commit -m "Update index.md"
+        git push
