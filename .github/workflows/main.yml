@@ -23,8 +23,8 @@ jobs:
     - name: Run generate_index.py
       run: |
         python3 generate_index.py
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "Viren070@users.noreply.github.com"
+        git config --local user.name "Viren070"
         git add index.md
         if git diff --staged --quiet; then
           echo "No changes to commit"
