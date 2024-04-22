@@ -23,14 +23,13 @@ jobs:
     - name: Run generate_index.py
       run: |
         python3 generate_index.py
-        echo ssss
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add index.md
-        git commit -m "Update index.md"
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
+          echo "Pushing changes"
           git commit -m "Update index.md"
           git push
         fi
